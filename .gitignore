@@ -1,0 +1,9 @@
+.idea/
+
+
+.travis.yml
+CHANGELOG.md
+help.txt
+lib/
+node_modules/
+package-lock.json
